@@ -1,0 +1,15 @@
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\bin\Debug\Cashier_Prototype.exe.config
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\bin\Debug\Cashier_Prototype.exe
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\bin\Debug\Cashier_Prototype.pdb
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.Form1.resources
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.Properties.Resources.resources
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.csproj.GenerateResource.cache
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.exe
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.pdb
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.csprojAssemblyReference.cache
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\bin\Debug\Interop.OposCashChanger_CCO.dll
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\bin\Debug\AxInterop.OposCashChanger_CCO.dll
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Interop.OposCashChanger_CCO.dll
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\AxInterop.OposCashChanger_CCO.dll
+C:\Users\xytanahashi10\source\repos\Cashier_Prototype\Cashier_Prototype\obj\Debug\Cashier_Prototype.csproj.ResolveComReference.cache
